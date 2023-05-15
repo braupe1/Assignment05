@@ -4,9 +4,9 @@
 #              When the program starts, load each "row" of data
 #              in "ToDoToDoList.txt" into a python Dictionary.
 #              Add the each dictionary "row" to a python list "table"
-# ChangeLog (Who,When,What):
+# ChangeLog:
 # BRaupe,2023.05.13,Created started script
-# BRaupe,2023.05.14,Added Try-Except and With functions
+# BRaupe,2023.05.14,Added Try-Except, With, and Len functions
 # ------------------------------------------------------------------------ #
 
 # -- Data -- #
